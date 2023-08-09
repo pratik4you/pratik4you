@@ -24,6 +24,15 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z_J7M3e5MW1E1oU5WcbokRUzdw6AXoZ-/view?usp=sharing](https://drive.google.com/file/d/1Z_J7M3e5MW1E1oU5WcbokRUzdw6AXoZ-/view?usp=sharing)
 
+<h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
+<h3 align="center">👀 I’m Currently pursuing Btech in COMPUTER SCIENCE AND ENGINEERING at Birla Institute of Technology- Mesra.</h3>
+
+- 👨‍💻 Checkout my Website [https://pratik4you.netlify.app/](https://pratik4you.netlify.app/)
+
+- 📫 How to reach me **pratikraj44152@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z_J7M3e5MW1E1oU5WcbokRUzdw6AXoZ-/view?usp=sharing](https://drive.google.com/file/d/1Z_J7M3e5MW1E1oU5WcbokRUzdw6AXoZ-/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratik_4_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_4_u" height="30" width="40" /></a>
