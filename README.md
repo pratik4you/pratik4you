@@ -1,15 +1,19 @@
-- 👋 Hi, I’m PRATIK KUMAR
-- 👀 I’m Currently pursuing Btech in COMPUTER SCIENCE AND ENGINEERING at Birla Institute of Technology- Mesra.
-
-- 📫 How to reach me pratikraj44152@gmail.com
 
 <!---
 pratik4you/pratik4you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
+---><h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
 <h3 align="center">👀 I’m Currently pursuing Btech in COMPUTER SCIENCE AND ENGINEERING at Birla Institute of Technology- Mesra.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik4you&label=Profile%20views&color=0e75b6&style=flat" alt="pratik4you" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik4you" alt="pratik4you" /></a> </p>
+
+- 🌱 I’m trying my hands out in programming and web devlopment.
+  
+- 💞️ I’m looking forward to learn and explore new technologies.
+  
+- 📫 How to reach me **pratikraj44152@gmail.com**
 - 🌱 I’m trying my hands out in programming and web devlopment.
   
 - 💞️ I’m looking forward to learn and explore new technologies.
